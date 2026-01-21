@@ -6,7 +6,7 @@ This repository provides data accompanying the publication:
 
 > **Ehrlich, S. K., Dean-Leon, E., Tacca, N., Armleder, S., Dimova-Edeleva, V., & Cheng, G. (2023).**  
 > *Human-robot collaborative task planning using anticipatory brain responses.*  
-> **PLOS ONE, 18(7), e0287958.** https://doi.org/10.1371/journal.pone.0287958 :contentReference[oaicite:2]{index=2}
+> **PLOS ONE, 18(7), e0287958.** https://doi.org/10.1371/journal.pone.0287958
 
 The work explores the feasibility of using **EEG-based neuro-cognitive measures** as an implicit feedback signal to enable **dynamic subtask assignment** in human–robot collaboration (HRC). The repository contains data from an **experimental HRI study** (EEG recorded during takeover/role-switching situations)
 
@@ -35,7 +35,7 @@ HRC_neurobased_taskplanning/
 
 **Design:** A human participant collaborated with an industrial robot (**UR10**) in a trajectory-following task in a **7×7 grid world**. Each movement from one grid tile to the next constitutes a **trial**. The task was designed to generate structured situations of **takeover** and **non-takeover** between human and robot. 
 
-Two collaboration scenarios were used: :contentReference[oaicite:2]{index=2}
+Two collaboration scenarios were used: 
 - **sequential collaboration (sC):** human and robot are responsible for separate workspace areas; takeovers occur at the workspace boundary
 - **intermittent collaboration (iC):** both operate in the full workspace, but each controls only two of the four movement directions; takeovers occur intermittently depending on required direction changes
 
