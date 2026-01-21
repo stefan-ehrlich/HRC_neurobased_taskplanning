@@ -16,13 +16,13 @@ The work explores the feasibility of using **EEG-based neuro-cognitive measures*
 
 ```text
 HRC_neurobased_taskplanning/
-├── cursor/                          # data/resources for cursor-based condition/scenario
+├── s01/                          # EEG and metadata for subject 01
 │   └── ...
-├── robot/                           # data/resources for robot condition/scenario
+├── s02/                           # EEG and metadata for subject 02
 │   └── ...
-├── documentation/                   # additional documentation (if present)
+...
+├── s12/                           # EEG and metadata for subject 12
 │   └── ...
-├── documentation_dataset-*.pdf      # dataset documentation (if included)
 ├── README.md
 └── ...
 ```
